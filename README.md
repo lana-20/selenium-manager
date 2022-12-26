@@ -35,7 +35,6 @@ When there's an issue interacting with the Selenium Manager, an exception gets r
 <img src="https://user-images.githubusercontent.com/70295997/209497089-2d5d6a0e-018f-44d5-b37b-16e222690326.png" width=700>
 <img src="https://user-images.githubusercontent.com/70295997/209497245-06aff584-10c2-4323-857a-4f93185cc892.png" width=700>
 
-
 ---
 
 [Driver Installation Page - 4 Ways to Use Drivers](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
