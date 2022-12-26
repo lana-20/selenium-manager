@@ -53,3 +53,5 @@ When there's an issue interacting with the Selenium Manager, an exception gets r
 
 [Boni Garcia's Webdriver Manager for Java - 3rd-Party Library](https://bonigarcia.dev/webdrivermanager/)
 
+[WebDriver Manager Setup: Selenium 3 vs Selenium 4 - Code Gist](https://gist.github.com/lana-20/7c3c964ba8a12cd812e41caeca7d1307)
+
