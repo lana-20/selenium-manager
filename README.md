@@ -19,7 +19,10 @@ To run a Selenium test with Selenium 4.6, you only need to have Chrome, Firefox,
 
 Future releases of Selenium Manager will eventually even __download browsers__ if necessary.
 
-...
+### Precedence
+-  Most Selenium users want to [get rid of the driver management problem](https://www.selenium.dev/blog/2021/selenium-survey-results/), as of January 12, 2021
+-  The [driver installation page](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) is by far the most visited one in the Selenium documentation
+-  Community demand/pressure to have the [driver manager] feature built into Selenium
 
 
 ---
