@@ -1,4 +1,4 @@
-# Selenium Manager - a new way to config/setup driver environment
+# Selenium Manager - a new automated way to config/setup driver environment
 
 
 - Make test automation more elegant and robust
@@ -25,6 +25,11 @@ Future releases of Selenium Manager will eventually even __download browsers__ i
 -  Community demand/pressure to have the [driver manager] feature built into Selenium
 
 
+### Specifics
+- Selenium Manager is a CLI tool developed in Rust to allow cross-platform and cross-browser test execution. 
+- Selenium Manager is invoked transparently by the Selenium bindings when no browser driver is detected on the PATH or no third party driver manager is being used.
+- Can also use Selenium Manager without the Selenium bindings. 
+
 ---
 [Introducing Selenium Manager - Built-in Driver Manager](https://www.selenium.dev/blog/2022/introducing-selenium-manager/)
 
@@ -37,3 +42,5 @@ Future releases of Selenium Manager will eventually even __download browsers__ i
 [Sergey Pirogov's Webdriver Manager for Python - 3rd-Party Library](https://pypi.org/project/webdriver-manager/)
 
 [Boni Garcia's Webdriver Manager for Java - 3rd-Party Library](https://bonigarcia.dev/webdrivermanager/)
+
+[Driver Installation Page - 4 Ways to Use Drivers](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
