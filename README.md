@@ -37,6 +37,9 @@ When there's an issue interacting with the Selenium Manager, an exception gets r
 
 
 ---
+
+[Driver Installation Page - 4 Ways to Use Drivers](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
+
 [Introducing Selenium Manager - Built-in Driver Manager](https://www.selenium.dev/blog/2022/introducing-selenium-manager/)
 
 [Selenium Manager Binaries Repo](https://github.com/SeleniumHQ/selenium/tree/trunk/common/manager)
@@ -51,4 +54,3 @@ When there's an issue interacting with the Selenium Manager, an exception gets r
 
 [Boni Garcia's Webdriver Manager for Java - 3rd-Party Library](https://bonigarcia.dev/webdrivermanager/)
 
-[Driver Installation Page - 4 Ways to Use Drivers](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)
