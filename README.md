@@ -7,7 +7,7 @@
 - Beefed up 'Selenium with Batteries'
 
 
-![image](https://user-images.githubusercontent.com/70295997/209493750-4e6a66fe-39f4-40b3-89ba-95f7aff807e6.png)
+<img src="https://user-images.githubusercontent.com/70295997/209493750-4e6a66fe-39f4-40b3-89ba-95f7aff807e6.png" width=700>
 
 Configuring browser drivers has been for many years a task which users need to perform in order to have a working environment to run Selenium.
 
@@ -30,12 +30,20 @@ Future releases of Selenium Manager will eventually even __download browsers__ i
 - Selenium Manager is invoked transparently by the Selenium bindings when no browser driver is detected on the PATH or no third party driver manager is being used.
 - Can also use Selenium Manager without the Selenium bindings. 
 
+When there's an issue interacting with the Selenium Manager, an exception gets raised:
+
+<img src="https://user-images.githubusercontent.com/70295997/209497089-2d5d6a0e-018f-44d5-b37b-16e222690326.png" width=700>
+<img src="https://user-images.githubusercontent.com/70295997/209497245-06aff584-10c2-4323-857a-4f93185cc892.png" width=700>
+
+
 ---
 [Introducing Selenium Manager - Built-in Driver Manager](https://www.selenium.dev/blog/2022/introducing-selenium-manager/)
 
 [Selenium Manager Binaries Repo](https://github.com/SeleniumHQ/selenium/tree/trunk/common/manager)
 
 [Selenium Manager 4.6.0 - No Need To Setup Any .exe File || No System Property || No WebDriverManager](https://youtu.be/M3RyBvUTOpk)
+
+[SeleniumManagerException](https://www.selenium.dev/selenium/docs/api/py/_modules/selenium/common/exceptions.html#SeleniumManagerException)
 
 [WebDriverManager: No Need to write WebDriver driver = new ChromeDriver();](https://youtu.be/kqQd6PlQtcs)
 
