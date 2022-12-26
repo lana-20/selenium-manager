@@ -1,5 +1,18 @@
 # Selenium Manager - a new way to config/setup driver environment
 
+- Run Selenium in a working out-of-the-box environment
+- Simplify environment setup and configuration
+- 'Selenium with Batteries'
+
+Configuring browser drivers has been for many years a task which users need to perform in order to have a working environment to run Selenium.
+
+Setting up a browser driver once is not that complicated, but as browser release cycles got shorter, and now we have a __new Chrome/Firefox/Edge version every 4-6 weeks__, the task of __keeping the browser driver in sync with the browser version__ is not that easy anymore.
+
+Selenium Manager is a new tool that helps to get a working environment to run Selenium out of the box. Beta 1 of Selenium Manager will __configure the browser drivers for Chrome, Firefox, and Edge if they are not present on the PATH__.
+
+To run a Selenium test with Selenium 4.6, you only need to have Chrome, Firefox, or Edge installed. If you already have browser drivers installed, this feature will be ignored.
+
+Future releases of Selenium Manager will eventually even __download browsers__ if necessary.
 
 ...
 
